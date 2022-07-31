@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho atualmente com Front End e UI/UX design
 - 🌱 Estou cursando TADS (Tecnologia em Análise e Desenvolvimento de Sistemas)
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/sara-xavier">
