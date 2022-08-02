@@ -1,5 +1,6 @@
 ## Oiii, eu sou a Sara Xavier! 👋
 
+
 - 🔭 Trabalho atualmente com Front End e UI/UX design
 - 🌱 Estou cursando TADS (Tecnologia em Análise e Desenvolvimento de Sistemas)
 - 😄 Pronomes: Ela/Dela
