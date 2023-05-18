@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/sara-xavier">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sara-xavier&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-xavier&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sara-xavier&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-xavier&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -16,7 +16,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sara-Xavier&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ##
  
 <div> 
