@@ -22,7 +22,7 @@
   <a href="https://instagram.com/sara_xavierrr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:saraaxavierrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  
-(https://github-readme-stats.vercel.app/api/wakatime?username=Sara_Xavier)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sara_Xavier)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
   
