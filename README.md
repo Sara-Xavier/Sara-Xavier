@@ -19,9 +19,9 @@
 
  
 <div> 
-  <a href="https://instagram.com/sara_xavierrr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/sara_xavierrr" target="_blank" rel="noopener noreferrer" title="Instagram"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:saraaxavierrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"</a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer" title="Figma"> <img src="https://img.icons8.com/color/48/null/figma--v1.png" alt="figma" width="40" height="40"/> </a>
   
 ##
  
