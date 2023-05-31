@@ -4,11 +4,11 @@
 - 🔭 Trabalho atualmente com Front End e UI/UX design
 - 🌱 Estou cursando TADS (Tecnologia em Análise e Desenvolvimento de Sistemas)
 - 😄 Pronomes: Ela/Dela
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sara-Xavier)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
+
+<div align="left">
   <a href="https://github.com/sara-xavier">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sara-Xavier&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Xavier&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sara-Xavier&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Xavier&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
 <div style="display: inline_block"><br>
