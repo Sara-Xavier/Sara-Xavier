@@ -7,6 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/sara-xavier">
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sara-Xavier)](https://github.com/anuraghazra/github-readme-stats)
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sara-Xavier&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Xavier&layout=compact&langs_count=7&theme=merko"/>
 </div>
