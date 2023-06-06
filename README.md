@@ -13,9 +13,9 @@
 <h1> Hello, everyone! My name is Sara Xavier, and I'm delighted to be here. 👋 </h1>
 
 
-🔭 Currently, I am studying TADS (Technology in Analysis and Systems Development) to build a strong foundation in various aspects of software development. I have a particular interest in Front-End Development and UI/UX design. </br>
-💻 In the realm of Front-End, I am skilled in HTML5, CSS3, JavaScript, and React. These technologies allow me to create visually appealing and interactive interfaces. I enjoy leveraging React's powerful capabilities to build dynamic and responsive web applications. </br>
-🌱 Alongside my studies, I am also diving into Python and Django. I'm excited to explore the possibilities that these technologies offer for building robust and scalable back-end solutions. My goal is to become a versatile Full-Stack Developer, proficient in both front-end and back-end technologies.
+🔭 Currently studying TADS, I have a strong interest in Front-End Development and UI/UX design. </br>
+💻 Skilled in HTML5, CSS3, JavaScript, React, and exploring Python and Django, I enjoy creating visually appealing interfaces and building dynamic web applications. </br>
+🌱 My goal is to become a versatile Full-Stack Developer, proficient in front-end and back-end technologies. </br>
 😄 Thank you for your attention, and I look forward to connecting and collaborating with all of you!" </br>
 
 </br>
