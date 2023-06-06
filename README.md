@@ -10,7 +10,7 @@
   
 <body>
 
-<h1> Hello, everyone! My name is Sara Xavier, and I'm delighted to be here. 👋 </h1>
+<h2> Hello, everyone! My name is Sara Xavier, and I'm delighted to be here. 👋 </h2>
 
 
 🔭 Currently studying TADS, I have a strong interest in Front-End Development and UI/UX design. </br> </br>
