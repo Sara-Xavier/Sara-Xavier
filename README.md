@@ -8,7 +8,8 @@
 </head>
   
 <body>
-## Oiii, eu sou a Sara Xavier! 👋
+## 
+Oiii, eu sou a Sara Xavier! 👋
 
 
 - 🔭 Trabalho atualmente com Front End e UI/UX design </br>
@@ -49,4 +50,4 @@
   
   ![Snake animation](https://github.com/sara-xavier/sara-xavier/blob/output/github-contribution-grid-snake.svg)
   
- </body>
+</body>
