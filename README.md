@@ -13,10 +13,10 @@
 <h2> Hello, everyone! My name is Sara Xavier, and I'm delighted to be here. 👋 </h2>
 
 
-<p> 🔭 Currently studying TADS, I have a strong interest in Front-End Development and UI/UX design. </p> </br> 
-<p> 💻 Skilled in HTML5, CSS3, JavaScript, React, and exploring Python and Django, I enjoy creating visually appealing interfaces and          building dynamic web applications. </p> </br> 
-<p> 🌱 My goal is to become a versatile Full-Stack Developer, proficient in front-end and back-end technologies. </p> </br> 
-<p> 😄 Thank you for your attention, and I look forward to connecting and collaborating with all of you! </p> </br> 
+<p> 🔭 Currently studying TADS, I have a strong interest in Front-End Development and UI/UX design. </p>
+<p> 💻 Skilled in HTML5, CSS3, JavaScript, React, and exploring Python and Django, I enjoy creating visually appealing interfaces and          building dynamic web applications. </p>
+<p> 🌱 My goal is to become a versatile Full-Stack Developer, proficient in front-end and back-end technologies. </p>
+<p> 😄 Thank you for your attention, and I look forward to connecting and collaborating with all of you! </p>
 
 </br>
 
