@@ -1,6 +1,6 @@
 ## Oiii, eu sou a Sara Xavier! 👋
 
-
+<body>
 - 🔭 Trabalho atualmente com Front End e UI/UX design
 - 🌱 Estou cursando TADS (Tecnologia em Análise e Desenvolvimento de Sistemas)
 - 😄 Pronomes: Ela/Dela
@@ -36,3 +36,5 @@
 </div>
   
   ![Snake animation](https://github.com/sara-xavier/sara-xavier/blob/output/github-contribution-grid-snake.svg)
+  
+ </body>
