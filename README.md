@@ -23,7 +23,6 @@
   <img align="center" alt="Sara-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
   <img align="center" alt="Sara-APhotoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 </div>
-<br>
 
  
 <div> 
