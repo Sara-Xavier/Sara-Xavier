@@ -10,12 +10,13 @@
   
 <body>
 
-<h1> Oiii, eu sou a Sara Xavier! 👋 </h1>
+<h1> Hello, everyone! My name is Sara Xavier, and I'm delighted to be here. 👋 </h1>
 
 
-- 🔭 Trabalho atualmente com Front End e UI/UX design </br>
-- 🌱 Estou cursando TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) </br>
-- 😄 Pronomes: Ela/Dela </br>
+- 🔭 Currently, I am studying TADS (Technology in Analysis and Systems Development) to build a strong foundation in various aspects of software development. I have a particular interest in Front-End Development and UI/UX design. </br>
+- 💻 In the realm of Front-End, I am skilled in HTML5, CSS3, JavaScript, and React. These technologies allow me to create visually appealing and interactive interfaces. I enjoy leveraging React's powerful capabilities to build dynamic and responsive web applications. </br>
+- 🌱 🌱 Alongside my studies, I am also diving into Python and Django. I'm excited to explore the possibilities that these technologies offer for building robust and scalable back-end solutions. My goal is to become a versatile Full-Stack Developer, proficient in both front-end and back-end technologies.
+- 😄 Thank you for your attention, and I look forward to connecting and collaborating with all of you!" </br>
 
 </br>
 
