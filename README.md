@@ -8,8 +8,8 @@
 </head>
   
 <body>
-## 
-Oiii, eu sou a Sara Xavier! 👋
+
+    <h1> Oiii, eu sou a Sara Xavier! 👋 </h1>
 
 
 - 🔭 Trabalho atualmente com Front End e UI/UX design </br>
