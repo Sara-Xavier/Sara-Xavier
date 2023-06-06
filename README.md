@@ -5,6 +5,8 @@
 - 🌱 Estou cursando TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) </br>
 - 😄 Pronomes: Ela/Dela </br>
 
+</br>
+
 <div align="left">
   <a href="https://github.com/sara-xavier">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sara-Xavier&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
