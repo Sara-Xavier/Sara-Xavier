@@ -49,6 +49,4 @@
   
 </div>
   
-  ![Snake animation](https://github.com/sara-xavier/sara-xavier/blob/output/github-contribution-grid-snake.svg)
-  
 </body>
