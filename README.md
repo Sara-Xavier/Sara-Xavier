@@ -48,7 +48,6 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SaraXavier)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![snake gif](https://github.com/Sara-Xavier/Sara-Xavier/blob/output/github-contribution-grid-snake.svg)
 
   
 </div>
