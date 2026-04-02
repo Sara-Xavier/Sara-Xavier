@@ -47,7 +47,7 @@
  
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sara-Xavier&show_icons=true&theme=radical)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=SaraXavier)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=SaraXavier&theme=radical)
   
 </div>
   
