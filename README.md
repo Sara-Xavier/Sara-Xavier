@@ -20,12 +20,6 @@
 
 </br>
 
-<div align="left">
-  <a href="https://github.com/sara-xavier">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sara-xavier&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-xavier&layout=compact&langs_count=7&theme=monokai"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" title="Python" alt="Sara-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
   <img align="center" title="HTML5" alt="Sara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
