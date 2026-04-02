@@ -45,8 +45,7 @@
   
 ##
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sara-Xavier&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sara-Xavier)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
   
